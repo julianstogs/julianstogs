@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 
 # Hi! I'm Julian 👋
 
+<!--
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Mobile+Engineer+%7C+iOS+%2B+Android;Building+Mission-Critical+Applications;Passionate+About+User+Experience)](https://git.io/typing-svg)
+  
+</div>
+-->
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2000&pause=1000&color=E1CACAEB&background=110E29EB&center=true&vCenter=true&width=450&lines=Software+Engineer+%F0%9F%92%BB%F0%9F%93%B1;Native+iOS+(Swift%2C+SwiftUI);Native+Android+(Kotlin+%2B+Compose);Responsive+Web+(React%2C+Next.js);UI%2FUX+Design+%F0%9F%8E%A8" alt="Typing SVG" /></a>
   
 </div>
 
