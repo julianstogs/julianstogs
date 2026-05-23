@@ -1,10 +1,10 @@
+# Hi! I'm Julian 👋🧑‍💻
+
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2000&pause=1000&color=E1CACAEB&background=110E29EB&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;iOS+%7C+Android+%7C+React+Native+%7C+Flutter;AWS+%7C+CI%2FCD+%7C+IoT+%2F+BLE;Architecture+%7C+0%E2%86%921+Delivery" alt="Typing SVG" /></a>
 
 </div>
-
-# Julian Stogsdill
 
 **Senior Software Engineer** — Kansas City, MO
 7+ years shipping scalable mobile, web, and cloud systems to **50K+ users** across GovTech, automotive, marine, consumer IoT, and semiconductor research.
@@ -26,7 +26,7 @@ I specialize in **greenfield 0→1 delivery** and architectural decisions that h
 
 ---
 
-## Impact
+## Impact – Past Projects
 
 | Metric | Result |
 |--------|--------|
@@ -81,7 +81,7 @@ I specialize in **greenfield 0→1 delivery** and architectural decisions that h
 
 ## Selected Work
 
-### 🏛️ GovTech — CJIS-Compliant Justice Platform (eHawk / RePath)
+### 🏛️ GovTech — Criminal Justice Platform (eHawk / RePath)
 `React Native` `Swift/SwiftUI` `AWS` `Bitrise` `GitHub Actions` `LaunchDarkly`
 
 Led technical direction for a CJIS/SOC 2-compliant platform serving **20K+ users** across U.S. and Canadian justice systems. Owned end-to-end delivery of three production applications — Officer (iOS/Android), Participant (iOS), and Agency Web Portal.
@@ -100,17 +100,17 @@ Architected a custom Flutter plugin with native Swift/Kotlin bridge wrappers int
 
 ---
 
-### 🏎️ Connected Hardware Products — Marine & Automotive (Interactive Technologies)
+### 🏎️ Connected Hardware / Control-System Products — Marine & Automotive (Interactive Technologies)
 `React Native` `Swift` `Kotlin` `BLE` `CAN-bus` `OTA`
 
 Shipped **15+ production apps** to App Store and Google Play serving **10K+ users** across automotive and marine industries. Architected unified BLE libraries achieving 99%+ connection reliability across the full product line — reducing cross-product dev time by 75% and codebase size by 40%.
 
----
+## My Active Projects
 
 ### 🏁 MotorHead *(In Progress)*
 `React Native` `Expo` `TypeScript` `Zustand` `TanStack Query` `Supabase`
 
-Cross-platform social platform for automotive enthusiasts — vehicle builds, event discovery, community. Single TypeScript codebase targeting iOS, Android, and Web.
+React-Native social platform for automotive enthusiasts — vehicle builds, event discovery, community. Single TypeScript codebase targeting iOS, Android, and Web.
 
 - Platform-adaptive component system via Metro bundler extensions (`.web.tsx` / `.native.tsx`) — no runtime branching
 - Comprehensive design system: semantic tokens, dark/light theming, composable component library
